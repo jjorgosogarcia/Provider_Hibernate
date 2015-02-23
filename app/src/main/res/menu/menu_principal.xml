@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Principal">
+    <item android:id="@+id/action_aniadir"
+        android:title="@string/aniadir"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_usuario"
+        android:title="@string/usuario"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_subir"
+        android:title="@string/menu_subir"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+</menu>
